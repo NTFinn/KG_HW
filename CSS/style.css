@@ -1,0 +1,59 @@
+.header-class {
+    min-height: 100vh;
+    background-image: url(/img/bg.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bg1-class {
+    background-color: rgba(244, 137, 8, 0.269);
+}
+
+.nav-class {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.nav-link-class {
+    color: white;
+}
+.bg1-text {
+    font-size: 50px;
+    padding: 15px 25px;
+    margin: 10px 100px;
+}
+
+.p1-text {
+    background-color: rgba(0, 0, 0, 0.2);
+    margin: 10px 50px;
+    padding: 15px 35px;
+}
+
+.bg1-link {
+    padding: 15px;
+    margin: 10px;
+}
+
+.bg1-link-a {
+    text-align: center;
+    background-color: #444;
+    border-radius: 45px;
+    color: #fff;
+    font-size: 20px;
+    padding: 15px 60px;
+}
+
+a {
+    text-decoration: none;
+    cursor: hand;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+    background-color: #f15929;
+}
+.carousel-class {
+    height: 500px;
+}
